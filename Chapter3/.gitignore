@@ -2,11 +2,12 @@
 
 # dependencies
 /node_modules
-# /.pnp
-# .pnp.js
+/.pnp
+.pnp.js
 package-lock.json
+
 Chapter3/src/App.test.js
-/public
+public
 
 # testing
 /coverage
