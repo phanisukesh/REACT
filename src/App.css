@@ -1,17 +1,17 @@
-.header{
-    display: flex;
-    justify-content: space-between;
+.header {
+  display: flex;
+  justify-content: space-between;
 }
-.navitems>ul{
-    display: flex;
-    list-style-type: none;
+.navitems > ul {
+  display: flex;
+  list-style-type: none;
 }
-.navitems>ul>li{
-    padding: 10px
+.navitems > ul > li {
+  padding: 10px;
 }
-.logo{
-    width: 100px;
+.logo {
+  width: 100px;
 }
-.header{
-    border: 3px solid red;
+.header {
+  border: 3px solid red;
 }
