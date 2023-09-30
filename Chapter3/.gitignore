@@ -5,8 +5,6 @@
 /.pnp
 .pnp.js
 package-lock.json
-
-Chapter3/src/App.test.js
 /public/
 
 # testing
