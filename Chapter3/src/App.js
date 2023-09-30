@@ -26,7 +26,7 @@ const HeaderComponent = () => {
   );
 };
 const Body = () => {
-  return <h1>Body</h1>;
+  return <h1>Body is nice</h1>;
 };
 const Footer = () => {
   return <h1>Footer is nice</h1>;
