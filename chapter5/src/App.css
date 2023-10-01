@@ -1,0 +1,31 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+}
+.navitems > ul {
+  display: flex;
+  list-style-type: none;
+}
+.navitems > ul > li {
+  padding: 10px;
+}
+.logo {
+  width: 100px;
+}
+.header {
+  border: 3px solid red;
+  padding: 5px;
+}
+.card{
+  width: 200px;
+  padding: 5px;
+  margin: 5px;
+  border: 3px solid green;
+}
+.img{
+  width: 100%;
+}
+.restaurant-list{
+  display: flex;
+  flex-wrap: wrap;
+}
